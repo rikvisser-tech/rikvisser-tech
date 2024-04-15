@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ## My name is Rik
-# A beginning software developer
+### A beginning software developer
 - 🔭 I’m currently working on a new website for my company
 - 🌱 I’m currently learning Python
 - 💬 Ask me about broadcast-IT
